@@ -1,0 +1,26 @@
+##################### PRODUITS ###############
+# - Libellé
+# - Prix HT
+# - code TVA 1 caract(1,2,3...) ou Taux TVA (sans '%')
+# - comptabilisé dans MENU (o/n)
+##############################################
+Sandiwsh Jambon beurre1
+3.50
+1
+o
+Sandiwsh Jambon beurre ***garni1
+4.00
+12.00
+o
+Sandwish Jambon fromage1
+3.20
+1
+o
+Sandwish Jambon fromage ***garni1
+3.80
+1
+o
+Sandwish filet americain1
+3.20
+1
+o
